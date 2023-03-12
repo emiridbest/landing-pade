@@ -1,0 +1,2 @@
+# emiridbest.github.io
+This is me translating the UI design in <a href="https://sproutdigital-dot-yamm-track.appspot.com/2G_pZvGXIABdj7Ogs7bfxERylQla2g0A_ypyJQkJ7K__HKp01hgH379KCl82S8qzdVfKMrBT6Vywx4_PA2GRmfbeKzs51eAIVYIlV0Cb-gBaHE8_oK9ZHYCELiDQmOoRjIV4_-4UQejlcDmvszJdflxrm02T4CTa56IFG_5RWnkGrJdyZMOawwrrgzpZplHfI6WZrYGIgkgIDhh0YMwq8f9pPbx3uOyA30Etwg4lWU4NTwpCoQOtnkFEEdr_EFklviIEkr92ttw">this figma prototype</a>.
